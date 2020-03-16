@@ -1,0 +1,29 @@
+Drill report for D:\Rouven\robotique\CarteAlim\PCB\CarteAlim2017.kicad_pcb
+Created on 05.03.2017 20:04:57
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file 'CarteAlim2017.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0.40mm  0.016"  (20 holes)
+    T2  0.50mm  0.020"  (40 holes)
+    T3  0.80mm  0.031"  (14 holes)
+    T4  1.00mm  0.039"  (14 holes)
+    T5  1.10mm  0.043"  (2 holes)
+    T6  1.20mm  0.047"  (28 holes)
+    T7  1.60mm  0.063"  (8 holes)
+    T8  2.70mm  0.106"  (4 holes)
+
+    Total plated holes count 130
+
+
+Drill file 'CarteAlim2017-NPTH.drl' contains
+    unplated through holes:
+    =============================================================
+
+    Total unplated holes count 0

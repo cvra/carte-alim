@@ -1,0 +1,59 @@
+Source,D:/Rouven/robotique/CarteAlim/PCB/CarteAlim2017.sch
+Kicad Rev,Eeschema 4.0.5
+Generated Date,07.03.2017 22:03:24
+
+Title,Power management robot
+Company,CVRA - Club Vaudois de robotique Autonome
+Revision,Draft
+Date Issue,29.01.2017
+
+Reference,Value,Tension,Digikey,Library,Library Ref
+P2,PT 1,5/ 2-3,5-H,conn,Screw_Terminal_1x02
+P3,PT 1,5/ 2-3,5-H,conn,Screw_Terminal_1x02
+F1,20A,device,Fuse
+F2,20A,device,Fuse
+C12,3.3mF,35V,565-3927-ND,device,CP
+U1,LTC2952_TSSOP20,_power,LTC2952_TSSOP20
+Q2,Si7997DP,_discrete,Si7997DP
+Q1,Si7997DP,_discrete,Si7997DP
+R6,R,device,R
+R7,R,device,R
+R5,R,device,R
+R8,R,device,R
+R1,1k,device,R
+R2,1k,device,R
+C3,NC,device,C_Small
+C1,NC,device,C_Small
+C5,0.1uF,device,C_Small
+BZ1,Buzzer,,668-1341-ND,device,Buzzer
+Q3,Si7997DP,_discrete,Si7997DP
+R11,100k,device,R
+C10,47nF,device,C_Small
+R9,100k,device,R
+C8,1nF,device,C_Small
+P5,MKKDS 1/ 5-3,5,conn,Screw_Terminal_1x10
+C13,100uF,35V,P12392-ND,device,CP
+Q4,Si7997DP,_discrete,Si7997DP
+R12,100k,device,R
+C11,47nF,device,C_Small
+R10,100k,device,R
+C9,1nF,device,C_Small
+P6,PT 1,5/ 2-3,5-H,conn,Screw_Terminal_1x02
+C6,100uF,35V,P12392-ND,device,CP
+R4,100k,device,R
+C4,47nF,device,C_Small
+R3,100k,device,R
+C2,1nF,device,C_Small
+P4,MKKDS 1/ 3-3,5,conn,Screw_Terminal_1x06
+U2,R-555.0PA,,945-2315-5-ND,_power,R-5xxxA
+C14,100uF,35V,P12392-ND,device,CP
+P7,MKKDS 1/ 3-3,5,conn,Screw_Terminal_1x06
+D1,LL103C-GS08,device,D
+P1,Picoblade,conn,CONN_01X08
+C7,100uF,35V,P12392-ND,device,CP
+MEC1,D2.7,Mec,MEC
+MEC2,D2.7,Mec,MEC
+MEC3,D2.7,Mec,MEC
+MEC4,D2.7,Mec,MEC
+REF1,REF,Mec,REF
+REF2,REF,Mec,REF
